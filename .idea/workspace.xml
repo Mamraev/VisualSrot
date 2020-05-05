@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba541c2-5c56-45e1-94c1-8c809becf75d" name="Default Changelist" comment="" />
+    <list default="true" id="8ba541c2-5c56-45e1-94c1-8c809becf75d" name="Default Changelist" comment="Abstract graphics">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/graphics/StatisticsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/graphics/animationPanel/ArrayGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/graphics/animationPanel/CircleAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/sorts/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/sorts/OddEvenSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VisualSrot/main/ArrayController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VisualSrot/main/ArrayController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VisualSrot/main/ArrayGraphics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VisualSrot/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VisualSrot/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VisualSrot/main/graphics/collAnimation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VisualSrot/main/graphics/collAnimation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ArrayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ArrayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ArrayGraphics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GraphicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/graphics/collAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/graphics/animationPanel/collAnimation.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +34,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b5GAnUQAiZOD4L4jvDQg7FGQMu" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,6 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="VisualSrot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.graphics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
@@ -96,10 +132,31 @@
       <workItem from="1588001556655" duration="286000" />
       <workItem from="1588173720612" duration="508000" />
       <workItem from="1588174516654" duration="366000" />
+      <workItem from="1588606905731" duration="9705000" />
+      <workItem from="1588625393026" duration="170000" />
+      <workItem from="1588691091040" duration="33000" />
+      <workItem from="1588696987540" duration="958000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Abstract graphics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract graphics" />
   </component>
 </project>

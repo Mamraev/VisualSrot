@@ -61,4 +61,12 @@ public class ArrayController {
             marked[i]=2;
         }
     }
+
+    public int getMax(){
+        int max = -1;
+        for(int n : arr){
+            max = Math.max(max,n);
+        }
+        return max;
+    }
 }
